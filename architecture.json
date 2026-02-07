@@ -1,0 +1,160 @@
+{
+  "book_id": "latin_american_boom_epistolary_class_struggle",
+  "title": "The Ink of the Mountain",
+  "tagline": "A brother's revolutionary letters ignite a sister's quiet rebellion in the shadow of the Andes.",
+  "target_words": 70000,
+  "actual_words": 73894,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Epistolary Spark of Consciousness",
+    "The Geography of Power: Mountain vs. Capital",
+    "Silence as Complicity vs. Speech as Danger",
+    "Inherited Fear vs. Revolutionary Hope"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Letter from the Belly of the Beast",
+      "words": 3079
+    },
+    {
+      "ch": 2,
+      "title": "The Tin Box in the Dead Mill",
+      "words": 3079
+    },
+    {
+      "ch": 3,
+      "title": "Don Álvaro's Pharmacy",
+      "words": 3079
+    },
+    {
+      "ch": 4,
+      "title": "The First Reply",
+      "words": 3079
+    },
+    {
+      "ch": 5,
+      "title": "Ghost in a Clean Shirt",
+      "words": 3079
+    },
+    {
+      "ch": 6,
+      "title": "Words Like Axes",
+      "words": 3079
+    },
+    {
+      "ch": 7,
+      "title": "The Journalist with a Limp",
+      "words": 3079
+    },
+    {
+      "ch": 8,
+      "title": "Papa's Ledger of Pain",
+      "words": 3079
+    },
+    {
+      "ch": 9,
+      "title": "The Boy Who Runs",
+      "words": 3079
+    },
+    {
+      "ch": 10,
+      "title": "The Walls Have Ears",
+      "words": 3079
+    },
+    {
+      "ch": 11,
+      "title": "The Tree in Our Guts",
+      "words": 3079
+    },
+    {
+      "ch": 12,
+      "title": "Flags of Surrender",
+      "words": 3079
+    },
+    {
+      "ch": 13,
+      "title": "The Sound of Grinding",
+      "words": 3079
+    },
+    {
+      "ch": 14,
+      "title": "A Diagnosis",
+      "words": 3079
+    },
+    {
+      "ch": 15,
+      "title": "The River and the Sewer",
+      "words": 3079
+    },
+    {
+      "ch": 16,
+      "title": "Eyes of a Lizard",
+      "words": 3079
+    },
+    {
+      "ch": 17,
+      "title": "The Cold Stripe of Moonlight",
+      "words": 3079
+    },
+    {
+      "ch": 18,
+      "title": "Burning or Keeping",
+      "words": 3079
+    },
+    {
+      "ch": 19,
+      "title": "The Performance of Work",
+      "words": 3079
+    },
+    {
+      "ch": 20,
+      "title": "Correspondence of Risk",
+      "words": 3079
+    },
+    {
+      "ch": 21,
+      "title": "The Mountain's Daughter",
+      "words": 3079
+    },
+    {
+      "ch": 22,
+      "title": "The Fuse is Lit",
+      "words": 3079
+    },
+    {
+      "ch": 23,
+      "title": "Against the Wind",
+      "words": 3079
+    },
+    {
+      "ch": 24,
+      "title": "The Letters We Become",
+      "words": 3079
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from Isabel to Tomás, describing the aftermath of her trip to the mill and her changing perception of their mountain home.",
+      "Compose a 'found document' from the tin box: a manifesto, a union leaflet, or a coded message from Tomás's cell.",
+      "Write a chapter from the perspective of the father, exploring the memory of 'your grandfather against a wall' and his philosophy of survival.",
+      "Create a letter from the journalist with a limp to a contact abroad, analyzing the nascent movement and the role of people like Tomás and Isabel."
+    ],
+    "technical": [
+      "Build an interactive map tracing the journey of letters between the capital and the mountain, annotating locations with thematic excerpts.",
+      "Create a text analysis tool that visualizes the shifting language and density of Marxist/revolutionary terminology across the correspondence."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Eduardo Galeano",
+      "Clarice Lispector",
+      "Gabriel García Márquez",
+      "José Carlos Mariátegui"
+    ]
+  },
+  "cover_prompt": "A young woman's hands, weathered and stained with ink, carefully unfold a clandestine letter against the rough fabric of her skirt, the paper crinkled and worn from its secret journey, [Detailed Scene & Context: set on a steep mountain slope at dusk, with the oppressive geometric sprawl of a distant capital city visible in the valley below, the Andes mountains looming as ancient, protective witnesses, a single oil lamp flickers beside her], [Artistic Style & Medium: in the atmospheric and textured style of a Latin American magical realist painter like Fernando Botero or Armando Morales, with a touch of Diego Rivera's social realism, executed in thick, expressive oil paints with visible brushstrokes], [Composition & Camera: book cover framing, a centered and intimate composition focused on the hands and letter, with a dramatic low-angle looking up at the woman, making the mountains behind her monumental], [Lighting & Color Palette: dramatic chiaroscuro lighting from the single lamp, casting deep shadows that hide complicit faces, with a color palette of earthy umbers, the deep indigo of twilight, the fiery orange of the lamp, and the stark white of the paper], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
