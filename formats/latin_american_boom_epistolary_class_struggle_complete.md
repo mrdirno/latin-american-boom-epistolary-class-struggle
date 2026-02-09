@@ -2,7 +2,8 @@
 
 ## **CHAPTER 1**
 
-The mountain did not sleep; it exhaled a cold, papery breath that rustled the tin roofs of the town. In the blue hour before dawn, Ana María felt that breath slip under her door, carrying not the scent of damp earth and eucalyptus, but the faint, acrid ghost of ink. It was the same smell that clung to the single, crumpled page hidden beneath her floorboard, a page that began, *Hermana, the capital is a lie built on our silence.* The ink, she was certain, had been mixed with the soot of a different fire, one that burned far down the valley, where the letters were born and the mountain watched, waiting.
+Miguel’s letter arrived smelling of diesel and damp earth. I held the cheap paper, its edges crumbling like the adobe walls of our old barrio, and understood: the strike had failed. His words, a careful list of necessities, screamed everything the ink would not confess.
+
 
 
 From your brother.
